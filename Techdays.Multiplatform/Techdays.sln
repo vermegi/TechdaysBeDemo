@@ -1,0 +1,166 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Techdays.Core", "1.Techdays.Core", "{D8190357-3A12-4933-BFFE-62F2FBEAACEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techdays.Core", "Techdays.Core\Techdays.Core.csproj", "{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Techdays.Devices", "2.Techdays.Devices", "{C2337CB2-746A-4A38-BBFC-E64F5CE92624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techdays.WinRT", "Techdays.WinRT\Techdays.WinRT.csproj", "{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techdays.Android", "Techdays.Android\Techdays.Android.csproj", "{D8267797-69FD-45BD-9534-406655F2271E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Techdays.Tests", "4.Techdays.Tests", "{25C546FD-97D0-432A-B756-E57A4B5368D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techdays.Tests", "Techdays.Test\Techdays.Tests.csproj", "{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Techdays.Services", "3.Techdays.Services", "{77D0A778-1221-45AC-A98C-82B68EBBF48B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techdays.WP", "Techdays.WP7\Techdays.WP.csproj", "{EDDF5110-22D0-4A20-817A-48081E7FD1BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Techdays.Utils", "5.Techdays.Utils", "{5338AE4C-0240-4746-91C0-3F1F2C73D592}"
+	ProjectSection(SolutionItems) = preProject
+		run_android_emulator.bat = run_android_emulator.bat
+		run_android_emulator_12.bat = run_android_emulator_12.bat
+		run_android_emulator_with_proxy.bat = run_android_emulator_with_proxy.bat
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techdays.JsonTest", "Techdays.JsonTest\Techdays.JsonTest.csproj", "{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs2010.qframe.be:8080/tfs/qfinternalprojectcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Techdays.Android\\Techdays.Android.csproj
+		SccProjectTopLevelParentUniqueName1 = Techdays.sln
+		SccProjectName1 = Techdays.Android
+		SccLocalPath1 = Techdays.Android
+		SccProjectUniqueName2 = Techdays.Core\\Techdays.Core.csproj
+		SccProjectTopLevelParentUniqueName2 = Techdays.sln
+		SccProjectName2 = Techdays.Core
+		SccLocalPath2 = Techdays.Core
+		SccProjectUniqueName3 = Techdays.Test\\Techdays.Tests.csproj
+		SccProjectTopLevelParentUniqueName3 = Techdays.sln
+		SccProjectName3 = Techdays.Test
+		SccLocalPath3 = Techdays.Test
+		SccProjectUniqueName4 = Techdays.WinRT\\Techdays.WinRT.csproj
+		SccProjectTopLevelParentUniqueName4 = Techdays.sln
+		SccProjectName4 = Techdays.WinRT
+		SccLocalPath4 = Techdays.WinRT
+		SccProjectUniqueName5 = Techdays.JsonTest\\Techdays.JsonTest.csproj
+		SccProjectTopLevelParentUniqueName5 = Techdays.sln
+		SccProjectName5 = Techdays.JsonTest
+		SccLocalPath5 = Techdays.JsonTest
+		SccProjectUniqueName6 = Techdays.WP7\\Techdays.WP.csproj
+		SccProjectTopLevelParentUniqueName6 = Techdays.sln
+		SccProjectName6 = Techdays.WP7
+		SccLocalPath6 = Techdays.WP7
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}.Release|ARM.ActiveCfg = Release|Any CPU
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}.Release|x64.ActiveCfg = Release|Any CPU
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0}.Release|x86.ActiveCfg = Release|Any CPU
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|ARM.ActiveCfg = Debug|ARM
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|ARM.Build.0 = Debug|ARM
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|ARM.Deploy.0 = Debug|ARM
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|x64.ActiveCfg = Debug|x64
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|x64.Build.0 = Debug|x64
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|x64.Deploy.0 = Debug|x64
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|x86.ActiveCfg = Debug|x86
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|x86.Build.0 = Debug|x86
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Debug|x86.Deploy.0 = Debug|x86
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|ARM.ActiveCfg = Release|ARM
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|ARM.Build.0 = Release|ARM
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|ARM.Deploy.0 = Release|ARM
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|x64.ActiveCfg = Release|x64
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|x64.Build.0 = Release|x64
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|x64.Deploy.0 = Release|x64
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|x86.ActiveCfg = Release|x86
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|x86.Build.0 = Release|x86
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6}.Release|x86.Deploy.0 = Release|x86
+		{D8267797-69FD-45BD-9534-406655F2271E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Release|ARM.ActiveCfg = Release|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Release|x64.ActiveCfg = Release|Any CPU
+		{D8267797-69FD-45BD-9534-406655F2271E}.Release|x86.ActiveCfg = Release|Any CPU
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}.Release|ARM.ActiveCfg = Release|Any CPU
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}.Release|x64.ActiveCfg = Release|Any CPU
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35}.Release|x86.ActiveCfg = Release|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Release|ARM.ActiveCfg = Release|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Release|x64.ActiveCfg = Release|Any CPU
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE}.Release|x86.ActiveCfg = Release|Any CPU
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}.Release|x64.ActiveCfg = Release|Any CPU
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{003B0771-DD8C-4CC4-86FF-20D0B1DFA2B0} = {D8190357-3A12-4933-BFFE-62F2FBEAACEC}
+		{87E2DF7D-A357-4A00-A003-A3B16F7C77E6} = {C2337CB2-746A-4A38-BBFC-E64F5CE92624}
+		{D8267797-69FD-45BD-9534-406655F2271E} = {C2337CB2-746A-4A38-BBFC-E64F5CE92624}
+		{EDDF5110-22D0-4A20-817A-48081E7FD1BE} = {C2337CB2-746A-4A38-BBFC-E64F5CE92624}
+		{7144EBE9-7332-4C38-BEF5-1A76F00A2A35} = {25C546FD-97D0-432A-B756-E57A4B5368D0}
+		{728A180C-CF71-4A7B-90AC-89D0D84E3E9C} = {5338AE4C-0240-4746-91C0-3F1F2C73D592}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Techdays.Android\Techdays.Android.csproj
+	EndGlobalSection
+EndGlobal

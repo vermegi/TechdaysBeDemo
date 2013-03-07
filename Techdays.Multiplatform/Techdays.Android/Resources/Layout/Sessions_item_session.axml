@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:local="http://schemas.android.com/apk/res/Techdays.Android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:padding="6dp">
+  <TextView
+      android:id="@+id/TitleTextView"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textSize="20dip"
+      android:paddingTop="4dip"
+      android:paddingLeft="10dip"
+      android:gravity="left"
+      android:layout_alignParentLeft="true"
+      local:MvxBind="{'Text':{'Path':'ShortTitle'}, 'Click': {'Path': 'SessionDetailCommand'}, 'TextColor': {'Path': 'InAgenda', 'Converter': 'BoolToColor'}}"    />
+  <LinearLayout
+  android:orientation="vertical"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_below="@id/TitleTextView"
+  android:paddingTop="3dip"
+  android:paddingLeft="10dip">
+    <TextView
+          android:id="@+id/SpeakerTextView"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingLeft="10dp"
+          android:textSize="14dip"
+          android:textColor="@color/icongrey"
+          local:MvxBind="{'Text':{'Path':'SpeakerString'}}"
+        />
+    <TextView
+          android:id="@+id/RoomTextView"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingLeft="10dp"
+          android:textSize="14dip"
+          android:gravity="right"
+          android:textColor="@color/icongrey"
+          local:MvxBind="{'Text':{'Path':'Room'}}"
+        />
+  </LinearLayout>
+
+</RelativeLayout>

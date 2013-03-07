@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:local="http://schemas.android.com/apk/res/Techdays.Android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  <Mvx.MvxBindableListView
+    android:id="@+id/listviewSpeakers"
+    android:choiceMode="singleChoice"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    local:MvxItemTemplate="@layout/speaker_listitem"
+    local:MvxBind="{'ItemsSource':{'Path':'FlatSpeakers'}}"    
+    />
+</LinearLayout>

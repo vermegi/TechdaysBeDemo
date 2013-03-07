@@ -1,0 +1,92 @@
+﻿<views:BaseHomeView
+    x:Class="Techdays.WP8.Views.HomeView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:views="clr-namespace:Techdays.WP8.Views"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Techdays.WP8.Controls"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <phone:Panorama Title="{Binding AppName}">
+            <phone:PanoramaItem Header="sessions">
+                <ScrollViewer DataContext="{Binding SessionHome}">
+                    <StackPanel Orientation="Vertical">
+                        <controls:TechdaysButton
+                                Text="5 march"
+                                SubText=""
+                                Command="{Binding ShowTuesdaysSessionsCommand}"
+                                Wide="True"
+                                Margin="5,0,0,5" 
+                                HorizontalAlignment="Left"
+                                Fill="#00BCF2"/>
+
+                        <StackPanel Orientation="Horizontal">
+
+                            <controls:TechdaysButton 
+                                Text="6 march" 
+                                SubText="Dev track"
+                                Command="{Binding ShowWednessdaysDevSessionsCommand}"
+                                Margin="5,5,5,5"
+                                Fill="#99cc00"/>
+
+                            <controls:TechdaysButton 
+                                Text="6 march" 
+                                SubText="ItPro track"
+                                Command="{Binding ShowWednessdaysItProSessionsCommand}"
+                                Margin="5,5,5,5"  
+                                Fill="#ff9900"/>
+
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <controls:TechdaysButton 
+                                Text="7 march" 
+                                SubText="Dev track"
+                                Command="{Binding ShowThursdaysDevSessionsCommand}"
+                                Margin="5,5,5,5"
+                                Fill="#9b4f96"/>
+
+                            <controls:TechdaysButton 
+                                Text="7 march" 
+                                SubText="ItPro track"
+                                Command="{Binding ShowThursdaysItProSessionsCommand}"
+                                Margin="5,5,5,5"
+                                Fill="#ffcc00"/>
+                        </StackPanel>
+
+                    </StackPanel>
+                </ScrollViewer>
+            </phone:PanoramaItem>
+            <phone:PanoramaItem Header="agenda">
+                <ScrollViewer DataContext="{Binding MyAgenda}">
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Text="{Binding TheText}"></TextBlock>
+                    </StackPanel>
+                </ScrollViewer>
+            </phone:PanoramaItem>
+            <phone:PanoramaItem Header="tweets">
+                <ScrollViewer DataContext="{Binding Tweets}">
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Text="{Binding TheText}"></TextBlock>
+                    </StackPanel>
+                </ScrollViewer>
+            </phone:PanoramaItem>
+            <phone:PanoramaItem Header="info">
+                <ScrollViewer DataContext="{Binding Info}">
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Text="{Binding TheText}"></TextBlock>
+                    </StackPanel>
+                </ScrollViewer>
+            </phone:PanoramaItem>
+        </phone:Panorama>
+    </Grid>
+</views:BaseHomeView>

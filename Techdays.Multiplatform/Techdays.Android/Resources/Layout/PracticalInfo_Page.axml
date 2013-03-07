@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  <ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp">
+      <LinearLayout
+          android:orientation="vertical"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content">
+      <LinearLayout
+          android:layout_margin="10dp"
+          android:orientation="vertical"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content">
+      <TextView
+        android:text="Kinepolis Antwerp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+      <TextView
+        android:text="Groenendaallaan 394"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+      <TextView
+        android:text="2030 Antwerp Belgium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+      </LinearLayout>
+      <TextView
+        android:text="Note: Free parking is available on site."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+      <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="You can also come with public transport: Busses 23, 123, 720, 730, 770, 772, 775, 771 and 776 all stop at Groenendaallaan (250m away from the Kinepolis) Tram 6 terminates at stop Metropolis (100m away from the Kinepolis)"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+      <com.google.android.maps.MapView
+    android:id="@+id/map"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="300dp"
+    android:apiKey="02IURtjkn2TE517vr0C73ayorpdBavdD6f1QPEw"
+     />
+    </LinearLayout>
+
+
+  </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:local="http://schemas.android.com/apk/res/Techdays.Android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  <Mvx.MvxBindableListView
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:cacheColorHint="#00000000"
+      local:MvxBind="{'ItemsSource':{'Path':'Topics'}}"
+      local:MvxItemTemplate="@layout/home_listitem_topic"
+    />
+</LinearLayout>

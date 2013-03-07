@@ -1,0 +1,84 @@
+﻿<Application 
+    x:Class="Techdays.WP7.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone">
+
+    <!--Application Resources-->
+    <Application.Resources>
+        <SolidColorBrush x:Key="TechdaysBackgroundBrush" Color="#2B2B2B " />
+        <SolidColorBrush x:Key="TechdaysBlueBrush" Color="#00BCF2 " />
+        <Style x:Key="TechdaysSmallTitleStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="26"></Setter>
+            <Setter Property="FontFamily" Value="Segoe WP Light"></Setter>
+            <Setter Property="Foreground" Value="#FFFFFF"></Setter>
+        </Style>
+        <Style x:Key="TechdaysBiggerTitleStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="FontSize" Value="36"></Setter>
+            <Setter Property="Margin" Value="10,10,0,10"></Setter>
+        </Style>
+        <Style x:Key="TechdaysBiggestTitleStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="FontSize" Value="72"></Setter>
+            <Setter Property="Margin" Value="10,10,0,10"></Setter>
+        </Style>
+        <Style x:Key="TechdaysVerySmallTitleStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="FontSize" Value="16"></Setter>
+        </Style>
+        <Style x:Key="TechdaysBlackTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="Foreground" Value="Black" />
+        </Style>
+        <Style x:Key="TechdaysGrayTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="Foreground" Value="DarkGray" />
+            <Setter Property="FontWeight" Value="ExtraBold" />
+        </Style>
+        <Style x:Key="TechdaysOrangeTitleStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="Foreground" Value="#ff9900" />
+            <Setter Property="FontSize" Value="72" />
+        </Style>
+        <Style x:Key="TechdaysOrangeTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysOrangeTitleStyle}">
+            <Setter Property="Foreground" Value="#ff9900" />
+            <Setter Property="FontSize" Value="36" />
+        </Style>
+        <Style x:Key="TechdaysOrangeSmallTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysOrangeTitleStyle}">
+            <Setter Property="Foreground" Value="#ff9900" />
+            <Setter Property="FontSize" Value="18" />
+        </Style>
+        <Style x:Key="TechdaysSmallTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="20" />
+        </Style>
+        <Style x:Key="TechdaysSpeakerTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="18" />
+        </Style>
+        <Style x:Key="TechdaysBoldSpeakerTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="FontFamily" Value="Segoe WP Semibold"></Setter>
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="18" />
+        </Style>
+        <Style x:Key="TechdaysSessionTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="24" />
+        </Style>
+        <Style x:Key="TechdaysSessionDetailTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="20" />
+        </Style>
+        <Style x:Key="TechdaysSmallerTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="16" />
+        </Style>
+        <Style x:Key="TechdaysBigTextStyle" TargetType="TextBlock" BasedOn="{StaticResource TechdaysSmallTitleStyle}">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="30" />
+        </Style>
+    </Application.Resources>
+
+    <Application.ApplicationLifetimeObjects>
+        <!--Required object that handles lifetime events for the application-->
+        <shell:PhoneApplicationService 
+            Launching="Application_Launching" Closing="Application_Closing" 
+            Activated="Application_Activated" Deactivated="Application_Deactivated"/>
+    </Application.ApplicationLifetimeObjects>
+
+</Application>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Techdays.Android" android:installLocation="internalOnly" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:targetSdkVersion="12" android:minSdkVersion="4" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:theme="@android:style/Theme.Holo">
+  </application>
+</manifest>

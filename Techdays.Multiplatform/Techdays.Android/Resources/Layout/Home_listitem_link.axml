@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:local="http://schemas.android.com/apk/res/Techdays.Android"
+  android:orientation="horizontal"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  local:MvxBind="{'Click': {'Path': 'LinkCommand'}}">
+  <ImageView
+          android:id="@+id/LinkImageView"
+          android:layout_width="40dp"
+          android:layout_height="40dp"
+          android:padding="8dp"
+          android:layout_margin="8dp"
+          local:MvxBind="{'AssetImagePath':{'Path':'LinkPicture', 'Converter':'LinkImage'}}"
+      />
+  <TextView 
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:paddingLeft="6dip"
+      android:layout_marginTop="6dip"
+      android:textSize="20dip"
+      local:MvxBind="{'Text':{'Path': 'Name'}, 'Click': {'Path': 'LinkCommand'}}" />
+</LinearLayout>

@@ -1,0 +1,72 @@
+﻿<views:BaseSessionDetail
+    x:Class="Techdays.WP7.Views.SessionDetailView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:views="clr-namespace:Techdays.WP7.Views"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+    xmlns:commands="clr-namespace:Cirrious.MvvmCross.WindowsPhone.Commands;assembly=Cirrious.MvvmCross.WindowsPhone"
+    xmlns:wp7="clr-namespace:Techdays.WP7"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <views:BaseSessionDetail.Resources>
+        <wp7:BoolToThicknessConverter x:Key="boolToThicknessConverter" />
+    </views:BaseSessionDetail.Resources>
+    <Grid x:Name="LayoutRoot" Background="{StaticResource TechdaysBackgroundBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3" />
+        </Grid.RowDefinitions>
+        <Image Source="/Resources/Images/border-colors.png" Grid.Row="2" VerticalAlignment="Stretch"/>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="{Binding Title}" 
+                       Foreground="{Binding InAgenda, Converter={StaticResource boolToThicknessConverter}}"
+                       TextWrapping="Wrap" Margin="9,-7,0,0" Style="{StaticResource TechdaysBiggerTitleStyle}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ScrollViewer>
+                <StackPanel Orientation="Vertical">
+                    <ListBox ItemsSource="{Binding Speakers}" ScrollViewer.VerticalScrollBarVisibility="Disabled">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Margin="0,5,0,5">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Image Source="{Binding Picture}" Margin="10,0,10,0"></Image>
+                                    <TextBlock Text="{Binding Fullname}" Grid.Column="1" 
+                                   Style="{StaticResource TechdaysOrangeTextStyle}" TextWrapping="Wrap">
+                                <i:Interaction.Triggers>
+                                    <i:EventTrigger EventName="Tap">
+                                        <commands:MvxEventToCommand Command="{Binding SpeakerDetailCommand}" />
+                                    </i:EventTrigger>
+                                </i:Interaction.Triggers>
+                                    </TextBlock>
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <TextBlock Text="{Binding FullTimeSlot}" Style="{StaticResource TechdaysBoldSpeakerTextStyle}" />
+                    <TextBlock Text="{Binding Room}" Style="{StaticResource TechdaysSpeakerTextStyle}" />
+                    <TextBlock Text="{Binding Topic}" Style="{StaticResource TechdaysSpeakerTextStyle}" />
+                    <TextBlock Text="{Binding Description}" Margin="0,10,0,0" TextWrapping="Wrap" Style="{StaticResource TechdaysSessionDetailTextStyle}" />
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+
+</views:BaseSessionDetail>

@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/" xmlns:georss="http://www.georss.org/georss">
+  <id>tag:search.twitter.com,2005:search/techdaysbe</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=techdaysbe" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=techdaysbe" rel="self"/>
+  <title>techdaysbe - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?since_id=309554696882892800&amp;q=techdaysbe" rel="refresh"/>
+  <updated>2013-03-07T06:42:45Z</updated>
+  <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?page=2&amp;max_id=309554696882892800&amp;q=techdaysbe&amp;rpp=30" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:309554696882892800</id>
+    <published>2013-03-07T06:42:45Z</published>
+    <link type="text/html" href="http://twitter.com/pdtit/statuses/309554696882892800" rel="alternate"/>
+    <title>Day 3 of @techdaysbe is about to kick off. Great sessions &amp;amp; speakers. Pass by the MS booth and have a chance to win an exam voucher!!</title>
+    <content type="html">Day 3 of @&lt;em&gt;techdaysbe&lt;/em&gt; is about to kick off. Great sessions &amp;amp; speakers. Pass by the MS booth and have a chance to win an exam voucher!!</content>
+    <updated>2013-03-07T06:42:45Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1330815410/profile_picture_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.tweetdeck.com"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>pdtit (peter de tender)</name>
+      <uri>http://twitter.com/pdtit</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309554651492130816</id>
+    <published>2013-03-07T06:42:34Z</published>
+    <link type="text/html" href="http://twitter.com/techdaysbe/statuses/309554651492130816" rel="alternate"/>
+    <title>RT @AppStoryBE: Haven't decided your #techdaysbe agenda of today yet? Check out the #windows8 and #windowsphone apps!</title>
+    <content type="html">RT @&lt;a class=" " href="https://twitter.com/AppStoryBE"&gt;AppStoryBE&lt;/a&gt;: Haven't decided your #&lt;em&gt;techdaysbe&lt;/em&gt; agenda of today yet? Check out the &lt;a href="http://search.twitter.com/search?q=%23windows8" title="#windows8" class=" "&gt;#windows8&lt;/a&gt; and &lt;a href="http://search.twitter.com/search?q=%23windowsphone" title="#windowsphone" class=" "&gt;#windowsphone&lt;/a&gt; apps!</content>
+    <updated>2013-03-07T06:42:34Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2847389811/f2dfc7cdd93082754b41f2d97c50dc0c_normal.png" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://seesmic.com/"&gt;Seesmic&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>techdaysbe (TechDays Belgium)</name>
+      <uri>http://twitter.com/techdaysbe</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309553740967460864</id>
+    <published>2013-03-07T06:38:57Z</published>
+    <link type="text/html" href="http://twitter.com/Jlybaert/statuses/309553740967460864" rel="alternate"/>
+    <title>RT @BartSw: Our colleague @Poecky explaining the #ConnectedOrganization concept at the @cegeka #techdaysbe stand #SP2013 http://t.co/zhs ...</title>
+    <content type="html">RT @&lt;a class=" " href="https://twitter.com/BartSw"&gt;BartSw&lt;/a&gt;: Our colleague @&lt;a class=" " href="https://twitter.com/Poecky"&gt;Poecky&lt;/a&gt; explaining the &lt;a href="http://search.twitter.com/search?q=%23ConnectedOrganization" title="#ConnectedOrganization" class=" "&gt;#ConnectedOrganization&lt;/a&gt; concept at the @&lt;a class=" " href="https://twitter.com/cegeka"&gt;cegeka&lt;/a&gt; #&lt;em&gt;techdaysbe&lt;/em&gt; stand &lt;a href="http://search.twitter.com/search?q=%23SP2013" title="#SP2013" class=" "&gt;#SP2013&lt;/a&gt; &lt;a href="http://t.co/zhs"&gt;http://t.co/zhs&lt;/a&gt; ...</content>
+    <updated>2013-03-07T06:38:57Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1448402576/jo_vraagteken_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/tweetbutton"&gt;Tweet Button&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Jlybaert (Johan Lybaert )</name>
+      <uri>http://twitter.com/Jlybaert</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309553127290466304</id>
+    <published>2013-03-07T06:36:31Z</published>
+    <link type="text/html" href="http://twitter.com/WorkingHardInIT/statuses/309553127290466304" rel="alternate"/>
+    <title>RT @timimjohnson: Great night at ask the experts night and to meet @WorkingHardInIT @roggenk and Greg Cusanza. Looking forward to day 3  ...</title>
+    <content type="html">RT @&lt;a class=" " href="https://twitter.com/timimjohnson"&gt;timimjohnson&lt;/a&gt;: Great night at ask the experts night and to meet @&lt;a class=" " href="https://twitter.com/WorkingHardInIT"&gt;WorkingHardInIT&lt;/a&gt; @&lt;a class=" " href="https://twitter.com/roggenk"&gt;roggenk&lt;/a&gt; and Greg Cusanza. Looking forward to day 3  ...</content>
+    <updated>2013-03-07T06:36:31Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/667087767/imagesCAJ3YXAJ_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.metrotwit.com/"&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>WorkingHardInIT (WorkingHardInIT)</name>
+      <uri>http://twitter.com/WorkingHardInIT</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309553065210564609</id>
+    <published>2013-03-07T06:36:16Z</published>
+    <link type="text/html" href="http://twitter.com/WorkingHardInIT/statuses/309553065210564609" rel="alternate"/>
+    <title>Day 3 at #techdaysbe Some good content on my sessions list.</title>
+    <content type="html">Day 3 at #&lt;em&gt;techdaysbe&lt;/em&gt; Some good content on my sessions list.</content>
+    <updated>2013-03-07T06:36:16Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/667087767/imagesCAJ3YXAJ_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.metrotwit.com/"&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>WorkingHardInIT (WorkingHardInIT)</name>
+      <uri>http://twitter.com/WorkingHardInIT</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309551931154649088</id>
+    <published>2013-03-07T06:31:46Z</published>
+    <link type="text/html" href="http://twitter.com/aalies/statuses/309551931154649088" rel="alternate"/>
+    <title>I'm at @techdaysbe (Antwerpen) http://t.co/21znUZQZmr</title>
+    <content type="html">I'm at @&lt;em&gt;techdaysbe&lt;/em&gt; (Antwerpen) &lt;a href="http://t.co/21znUZQZmr"&gt;http://t.co/21znUZQZmr&lt;/a&gt;</content>
+    <updated>2013-03-07T06:31:46Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1623019695/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+      <georss:point>51.24604094934566 4.417469501495361</georss:point>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:place>
+      <twitter:id>2a8a74486cd0d519</twitter:id>
+      <twitter:full_name>Antwerp</twitter:full_name>
+      <twitter:type>CITY</twitter:type>
+    </twitter:place>
+    <twitter:source>&lt;a href="http://foursquare.com"&gt;foursquare&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>aalies (Annelies Walravens)</name>
+      <uri>http://twitter.com/aalies</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309551339464175616</id>
+    <published>2013-03-07T06:29:25Z</published>
+    <link type="text/html" href="http://twitter.com/maartenballiauw/statuses/309551339464175616" rel="alternate"/>
+    <title>Cleaning staff at #kinepolis have giant vacuum cleaners on their back. #ghostbusters! #techdaysbe</title>
+    <content type="html">Cleaning staff at &lt;a href="http://search.twitter.com/search?q=%23kinepolis" title="#kinepolis" class=" "&gt;#kinepolis&lt;/a&gt; have giant vacuum cleaners on their back. &lt;a href="http://search.twitter.com/search?q=%23ghostbusters" title="#ghostbusters" class=" "&gt;#ghostbusters&lt;/a&gt;! #&lt;em&gt;techdaysbe&lt;/em&gt;</content>
+    <updated>2013-03-07T06:29:25Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2562679323/19d99952-f62e-4654-bd1b-444e7f2acd5c_normal.png" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.hootsuite.com"&gt;HootSuite&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>maartenballiauw (Maarten Balliauw)</name>
+      <uri>http://twitter.com/maartenballiauw</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309550423579176960</id>
+    <published>2013-03-07T06:25:46Z</published>
+    <link type="text/html" href="http://twitter.com/katriendg/statuses/309550423579176960" rel="alternate"/>
+    <title>RT @kristofrennen: Goooooooooooooooodmorning, ready for the last day of #techdaysbe?!? Don't forget the HOLs and connect with #meetbe</title>
+    <content type="html">RT @&lt;a class=" " href="https://twitter.com/kristofrennen"&gt;kristofrennen&lt;/a&gt;: Goooooooooooooooodmorning, ready for the last day of #&lt;em&gt;techdaysbe&lt;/em&gt;?!? Don't forget the HOLs and connect with &lt;a href="http://search.twitter.com/search?q=%23meetbe" title="#meetbe" class=" "&gt;#meetbe&lt;/a&gt;</content>
+    <updated>2013-03-07T06:25:46Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2507202828/gzg38zgd0oj313s3v6z6_normal.jpeg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.metrotwit.com/"&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>katriendg (Katrien De Graeve)</name>
+      <uri>http://twitter.com/katriendg</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309546545504735232</id>
+    <published>2013-03-07T06:10:22Z</published>
+    <link type="text/html" href="http://twitter.com/Goofys_Friend/statuses/309546545504735232" rel="alternate"/>
+    <title>The #applan room at #techdaysbe is waiting for all who will try to develop a #win8 #windowsphone app or #azure lab</title>
+    <content type="html">The &lt;a href="http://search.twitter.com/search?q=%23applan" title="#applan" class=" "&gt;#applan&lt;/a&gt; room at #&lt;em&gt;techdaysbe&lt;/em&gt; is waiting for all who will try to develop a &lt;a href="http://search.twitter.com/search?q=%23win8" title="#win8" class=" "&gt;#win8&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23windowsphone" title="#windowsphone" class=" "&gt;#windowsphone&lt;/a&gt; app or &lt;a href="http://search.twitter.com/search?q=%23azure" title="#azure" class=" "&gt;#azure&lt;/a&gt; lab</content>
+    <updated>2013-03-07T06:10:22Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2717163745/3ea66a52d9d603aa285e767a1baeebc5_normal.png" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.twitter.com"&gt;Twitter for Windows Phone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Goofys_Friend (Danny Van Neyghem)</name>
+      <uri>http://twitter.com/Goofys_Friend</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309543435747065856</id>
+    <published>2013-03-07T05:58:00Z</published>
+    <link type="text/html" href="http://twitter.com/Goofys_Friend/statuses/309543435747065856" rel="alternate"/>
+    <title>Arrived  at #techdaysbe for a day full of interesting sessions and #applabs with #meetbe members</title>
+    <content type="html">Arrived  at #&lt;em&gt;techdaysbe&lt;/em&gt; for a day full of interesting sessions and &lt;a href="http://search.twitter.com/search?q=%23applabs" title="#applabs" class=" "&gt;#applabs&lt;/a&gt; with &lt;a href="http://search.twitter.com/search?q=%23meetbe" title="#meetbe" class=" "&gt;#meetbe&lt;/a&gt; members</content>
+    <updated>2013-03-07T05:58:00Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2717163745/3ea66a52d9d603aa285e767a1baeebc5_normal.png" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.twitter.com"&gt;Twitter for Windows Phone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Goofys_Friend (Danny Van Neyghem)</name>
+      <uri>http://twitter.com/Goofys_Friend</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309542908414025728</id>
+    <published>2013-03-07T05:55:55Z</published>
+    <link type="text/html" href="http://twitter.com/Sissi_kaizerin/statuses/309542908414025728" rel="alternate"/>
+    <title>RT @AppStoryBE: Haven't decided your #techdaysbe agenda of today yet? Check out the #windows8 and #windowsphone apps!</title>
+    <content type="html">RT @&lt;a class=" " href="https://twitter.com/AppStoryBE"&gt;AppStoryBE&lt;/a&gt;: Haven't decided your #&lt;em&gt;techdaysbe&lt;/em&gt; agenda of today yet? Check out the &lt;a href="http://search.twitter.com/search?q=%23windows8" title="#windows8" class=" "&gt;#windows8&lt;/a&gt; and &lt;a href="http://search.twitter.com/search?q=%23windowsphone" title="#windowsphone" class=" "&gt;#windowsphone&lt;/a&gt; apps!</content>
+    <updated>2013-03-07T05:55:55Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1398244175/27072_1420154664857_1262395176_31188179_3300403_n_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.twitter.com"&gt;Twitter for Windows Phone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Sissi_kaizerin (Sigrid Vandenweghe)</name>
+      <uri>http://twitter.com/Sissi_kaizerin</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309536342361124864</id>
+    <published>2013-03-07T05:29:49Z</published>
+    <link type="text/html" href="http://twitter.com/AppStoryBE/statuses/309536342361124864" rel="alternate"/>
+    <title>Haven't decided your #techdaysbe agenda of today yet? Check out the #windows8 and #windowsphone apps!</title>
+    <content type="html">Haven't decided your #&lt;em&gt;techdaysbe&lt;/em&gt; agenda of today yet? Check out the &lt;a href="http://search.twitter.com/search?q=%23windows8" title="#windows8" class=" "&gt;#windows8&lt;/a&gt; and &lt;a href="http://search.twitter.com/search?q=%23windowsphone" title="#windowsphone" class=" "&gt;#windowsphone&lt;/a&gt; apps!</content>
+    <updated>2013-03-07T05:29:49Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/3092239210/05fbe973b35e8af6efbe514e8095a4f8_normal.png" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.twitter.com"&gt;Twitter for Windows Phone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>AppStoryBE (AppStory)</name>
+      <uri>http://twitter.com/AppStoryBE</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309536218645938176</id>
+    <published>2013-03-07T05:29:20Z</published>
+    <link type="text/html" href="http://twitter.com/JeroenBdH/statuses/309536218645938176" rel="alternate"/>
+    <title>Off to Antwerp #techdaysbe</title>
+    <content type="html">Off to Antwerp #&lt;em&gt;techdaysbe&lt;/em&gt;</content>
+    <updated>2013-03-07T05:29:20Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/3322563418/96018fb4f37af94188cffc4d8ff5e1ef_normal.jpeg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://rowiapp.com"&gt;rowi for Windows Phone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>JeroenBdH (Jeroen Bourdeaud'hui)</name>
+      <uri>http://twitter.com/JeroenBdH</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309534772412170240</id>
+    <published>2013-03-07T05:23:35Z</published>
+    <link type="text/html" href="http://twitter.com/TechMike2kX/statuses/309534772412170240" rel="alternate"/>
+    <title>RT @kristofrennen: Goooooooooooooooodmorning, ready for the last day of #techdaysbe?!? Don't forget the HOLs and connect with #meetbe</title>
+    <content type="html">RT @&lt;a class=" " href="https://twitter.com/kristofrennen"&gt;kristofrennen&lt;/a&gt;: Goooooooooooooooodmorning, ready for the last day of #&lt;em&gt;techdaysbe&lt;/em&gt;?!? Don't forget the HOLs and connect with &lt;a href="http://search.twitter.com/search?q=%23meetbe" title="#meetbe" class=" "&gt;#meetbe&lt;/a&gt;</content>
+    <updated>2013-03-07T05:23:35Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1401588378/image_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.metrotwit.com/"&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>TechMike2kX (Mike Martin)</name>
+      <uri>http://twitter.com/TechMike2kX</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309534611430600705</id>
+    <published>2013-03-07T05:22:56Z</published>
+    <link type="text/html" href="http://twitter.com/TechMike2kX/statuses/309534611430600705" rel="alternate"/>
+    <title>and it confirm that @GitteTitter  :-) #techdaysbe</title>
+    <content type="html">and it confirm that @&lt;a class=" " href="https://twitter.com/GitteTitter"&gt;GitteTitter&lt;/a&gt;  :-) #&lt;em&gt;techdaysbe&lt;/em&gt;</content>
+    <updated>2013-03-07T05:22:56Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1401588378/image_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.metrotwit.com/"&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>TechMike2kX (Mike Martin)</name>
+      <uri>http://twitter.com/TechMike2kX</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309531908654645248</id>
+    <published>2013-03-07T05:12:12Z</published>
+    <link type="text/html" href="http://twitter.com/Sissi_kaizerin/statuses/309531908654645248" rel="alternate"/>
+    <title>RT @kristofrennen: Goooooooooooooooodmorning, ready for the last day of #techdaysbe?!? Don't forget the HOLs and connect with #meetbe</title>
+    <content type="html">RT @&lt;a class=" " href="https://twitter.com/kristofrennen"&gt;kristofrennen&lt;/a&gt;: Goooooooooooooooodmorning, ready for the last day of #&lt;em&gt;techdaysbe&lt;/em&gt;?!? Don't forget the HOLs and connect with &lt;a href="http://search.twitter.com/search?q=%23meetbe" title="#meetbe" class=" "&gt;#meetbe&lt;/a&gt;</content>
+    <updated>2013-03-07T05:12:12Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1398244175/27072_1420154664857_1262395176_31188179_3300403_n_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.twitter.com"&gt;Twitter for Windows Phone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Sissi_kaizerin (Sigrid Vandenweghe)</name>
+      <uri>http://twitter.com/Sissi_kaizerin</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309531563476021248</id>
+    <published>2013-03-07T05:10:50Z</published>
+    <link type="text/html" href="http://twitter.com/RichGee/statuses/309531563476021248" rel="alternate"/>
+    <title>On my way to #TechDaysBE in a very uncomfortable taxi not what u need at his hour</title>
+    <content type="html">On my way to #&lt;em&gt;TechDaysBE&lt;/em&gt; in a very uncomfortable taxi not what u need at his hour</content>
+    <updated>2013-03-07T05:10:50Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/57510794/seascout_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/download/iphone"&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>RichGee (Richard Griffin)</name>
+      <uri>http://twitter.com/RichGee</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309530807956037632</id>
+    <published>2013-03-07T05:07:50Z</published>
+    <link type="text/html" href="http://twitter.com/GitteTitter/statuses/309530807956037632" rel="alternate"/>
+    <title>Ready to leave for #techdaysbe 2nd day. Totally prepared for my mobile x-platform session, it's going to be awesome!</title>
+    <content type="html">Ready to leave for #&lt;em&gt;techdaysbe&lt;/em&gt; 2nd day. Totally prepared for my mobile x-platform session, it's going to be awesome!</content>
+    <updated>2013-03-07T05:07:50Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1610425251/ikke_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.twitter.com"&gt;Twitter for Windows Phone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>GitteTitter (Titter)</name>
+      <uri>http://twitter.com/GitteTitter</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309527557924089856</id>
+    <published>2013-03-07T04:54:55Z</published>
+    <link type="text/html" href="http://twitter.com/kristofrennen/statuses/309527557924089856" rel="alternate"/>
+    <title>Goooooooooooooooodmorning, ready for the last day of #techdaysbe?!? Don't forget the HOLs and connect with #meetbe</title>
+    <content type="html">Goooooooooooooooodmorning, ready for the last day of #&lt;em&gt;techdaysbe&lt;/em&gt;?!? Don't forget the HOLs and connect with &lt;a href="http://search.twitter.com/search?q=%23meetbe" title="#meetbe" class=" "&gt;#meetbe&lt;/a&gt;</content>
+    <updated>2013-03-07T04:54:55Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2907732211/2cbcbe05a2338e6b59807259a161fb4c_normal.png" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.twitter.com"&gt;Twitter for Windows Phone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>kristofrennen (Kristof Rennen)</name>
+      <uri>http://twitter.com/kristofrennen</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309525190491127809</id>
+    <published>2013-03-07T04:45:30Z</published>
+    <link type="text/html" href="http://twitter.com/Goofys_Friend/statuses/309525190491127809" rel="alternate"/>
+    <title>Almost ready to leave for last day of #techdaysbe #meetbe</title>
+    <content type="html">Almost ready to leave for last day of #&lt;em&gt;techdaysbe&lt;/em&gt; &lt;a href="http://search.twitter.com/search?q=%23meetbe" title="#meetbe" class=" "&gt;#meetbe&lt;/a&gt;</content>
+    <updated>2013-03-07T04:45:30Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2717163745/3ea66a52d9d603aa285e767a1baeebc5_normal.png" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.twitter.com"&gt;Twitter for Windows Phone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Goofys_Friend (Danny Van Neyghem)</name>
+      <uri>http://twitter.com/Goofys_Friend</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309453792129212416</id>
+    <published>2013-03-07T00:01:48Z</published>
+    <link type="text/html" href="http://twitter.com/jseghers/statuses/309453792129212416" rel="alternate"/>
+    <title>Has a nice #techdaysbe demo ready for tomorrow. ADFS, WAAD in Websites, Check out our session at 4.15 PM. http://t.co/7bUwu1GQFl</title>
+    <content type="html">Has a nice #&lt;em&gt;techdaysbe&lt;/em&gt; demo ready for tomorrow. ADFS, WAAD in Websites, Check out our session at 4.15 PM. &lt;a href="http://t.co/7bUwu1GQFl"&gt;http://t.co/7bUwu1GQFl&lt;/a&gt;</content>
+    <updated>2013-03-07T00:01:48Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2048628306/9efcbec6-345f-46af-802f-944eac9ba807_normal.png" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.metrotwit.com/"&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jseghers (Jethro Seghers)</name>
+      <uri>http://twitter.com/jseghers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309445474132307968</id>
+    <published>2013-03-06T23:28:45Z</published>
+    <link type="text/html" href="http://twitter.com/lemoinek/statuses/309445474132307968" rel="alternate"/>
+    <title>The last session at #techdaysbe was the best http://t.co/6lZnIlXxXL</title>
+    <content type="html">The last session at #&lt;em&gt;techdaysbe&lt;/em&gt; was the best &lt;a href="http://t.co/6lZnIlXxXL"&gt;http://t.co/6lZnIlXxXL&lt;/a&gt;</content>
+    <updated>2013-03-06T23:28:45Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1785078660/LemoineKris_1__normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>lemoinek (Kris Lemoine)</name>
+      <uri>http://twitter.com/lemoinek</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309440793217748992</id>
+    <published>2013-03-06T23:10:08Z</published>
+    <link type="text/html" href="http://twitter.com/timimjohnson/statuses/309440793217748992" rel="alternate"/>
+    <title>Great night at ask the experts night and to meet @WorkingHardInIT @roggenk and Greg Cusanza. Looking forward to day 3 tomorrow! #techdaysbe</title>
+    <content type="html">Great night at ask the experts night and to meet @&lt;a class=" " href="https://twitter.com/WorkingHardInIT"&gt;WorkingHardInIT&lt;/a&gt; @&lt;a class=" " href="https://twitter.com/roggenk"&gt;roggenk&lt;/a&gt; and Greg Cusanza. Looking forward to day 3 tomorrow! #&lt;em&gt;techdaysbe&lt;/em&gt;</content>
+    <updated>2013-03-06T23:10:08Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1356761889/me_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/download/iphone"&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>timimjohnson (Tim Johnson)</name>
+      <uri>http://twitter.com/timimjohnson</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309436175314190336</id>
+    <published>2013-03-06T22:51:47Z</published>
+    <link type="text/html" href="http://twitter.com/chton/statuses/309436175314190336" rel="alternate"/>
+    <title>Head still filled with too much stuff from #techdaysbe.  Let's hope tomorrow is just as good as today .</title>
+    <content type="html">Head still filled with too much stuff from #&lt;em&gt;techdaysbe&lt;/em&gt;.  Let's hope tomorrow is just as good as today .</content>
+    <updated>2013-03-06T22:51:47Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/3332944197/6597d8cb0f7b6e5dc82479df04adc615_normal.jpeg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.tweetdeck.com"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>chton (Bram De Buyser)</name>
+      <uri>http://twitter.com/chton</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309431508903542784</id>
+    <published>2013-03-06T22:33:15Z</published>
+    <link type="text/html" href="http://twitter.com/WorkingHardInIT/statuses/309431508903542784" rel="alternate"/>
+    <title>RT @t_vandenborre: I was 1 of the exception to raise a hand on the question about the use of  #hyperV in production in 2008 #times_are_c ...</title>
+    <content type="html">RT @&lt;a class=" " href="https://twitter.com/t_vandenborre"&gt;t_vandenborre&lt;/a&gt;: I was 1 of the exception to raise a hand on the question about the use of  &lt;a href="http://search.twitter.com/search?q=%23hyperV" title="#hyperV" class=" "&gt;#hyperV&lt;/a&gt; in production in 2008 &lt;a href="http://search.twitter.com/search?q=%23times_are_c" title="#times_are_c" class=" "&gt;#times_are_c&lt;/a&gt; ...</content>
+    <updated>2013-03-06T22:33:15Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/667087767/imagesCAJ3YXAJ_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.metrotwit.com/"&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>WorkingHardInIT (WorkingHardInIT)</name>
+      <uri>http://twitter.com/WorkingHardInIT</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309431126710169600</id>
+    <published>2013-03-06T22:31:44Z</published>
+    <link type="text/html" href="http://twitter.com/WorkingHardInIT/statuses/309431126710169600" rel="alternate"/>
+    <title>RT @maarten_goet: Ook de belgische collega's delen hun #SysCtr kennis en ervaring tijdens #TechdaysBE. Cross country community powerrrr  ...</title>
+    <content type="html">RT @&lt;a class=" " href="https://twitter.com/maarten_goet"&gt;maarten_goet&lt;/a&gt;: Ook de belgische collega's delen hun &lt;a href="http://search.twitter.com/search?q=%23SysCtr" title="#SysCtr" class=" "&gt;#SysCtr&lt;/a&gt; kennis en ervaring tijdens #&lt;em&gt;TechdaysBE&lt;/em&gt;. Cross country community powerrrr  ...</content>
+    <updated>2013-03-06T22:31:44Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/667087767/imagesCAJ3YXAJ_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.metrotwit.com/"&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>nl</twitter:lang>
+    <author>
+      <name>WorkingHardInIT (WorkingHardInIT)</name>
+      <uri>http://twitter.com/WorkingHardInIT</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309422210060279808</id>
+    <published>2013-03-06T21:56:18Z</published>
+    <link type="text/html" href="http://twitter.com/kristofrennen/statuses/309422210060279808" rel="alternate"/>
+    <title>Time for a short nap and prepare for day 3 of #techdaysbe ... see you guys in a few hours! :-</title>
+    <content type="html">Time for a short nap and prepare for day 3 of #&lt;em&gt;techdaysbe&lt;/em&gt; ... see you guys in a few hours! :-</content>
+    <updated>2013-03-06T21:56:18Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2907732211/2cbcbe05a2338e6b59807259a161fb4c_normal.png" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.metrotwit.com/"&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>kristofrennen (Kristof Rennen)</name>
+      <uri>http://twitter.com/kristofrennen</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309421034946301952</id>
+    <published>2013-03-06T21:51:38Z</published>
+    <link type="text/html" href="http://twitter.com/kristofrennen/statuses/309421034946301952" rel="alternate"/>
+    <title>Did you like day 2 of #techdaysbe? I sure did :-)</title>
+    <content type="html">Did you like day 2 of #&lt;em&gt;techdaysbe&lt;/em&gt;? I sure did :-)</content>
+    <updated>2013-03-06T21:51:38Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2907732211/2cbcbe05a2338e6b59807259a161fb4c_normal.png" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.metrotwit.com/"&gt;MetroTwit&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>kristofrennen (Kristof Rennen)</name>
+      <uri>http://twitter.com/kristofrennen</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309418715068391425</id>
+    <published>2013-03-06T21:42:25Z</published>
+    <link type="text/html" href="http://twitter.com/kevinderudder/statuses/309418715068391425" rel="alternate"/>
+    <title>Tired but satisfied. Session-2 day tomorrow at #techdaysbe</title>
+    <content type="html">Tired but satisfied. Session-2 day tomorrow at #&lt;em&gt;techdaysbe&lt;/em&gt;</content>
+    <updated>2013-03-06T21:42:25Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/82618227/warholizeMe_normal.jpg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.twitter.com"&gt;Twitter for Windows Phone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>kevinderudder (Kevin DeRudder)</name>
+      <uri>http://twitter.com/kevinderudder</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:309413975240626176</id>
+    <published>2013-03-06T21:23:34Z</published>
+    <link type="text/html" href="http://twitter.com/Kimage81/statuses/309413975240626176" rel="alternate"/>
+    <title>Had a cool day today at #techdaysbe. Enjoyed @cloudnick 's presentation on #windowsazure and his short #karaoke intermezzo! #azure</title>
+    <content type="html">Had a cool day today at #&lt;em&gt;techdaysbe&lt;/em&gt;. Enjoyed @&lt;a class=" " href="https://twitter.com/cloudnick"&gt;cloudnick&lt;/a&gt; 's presentation on &lt;a href="http://search.twitter.com/search?q=%23windowsazure" title="#windowsazure" class=" "&gt;#windowsazure&lt;/a&gt; and his short &lt;a href="http://search.twitter.com/search?q=%23karaoke" title="#karaoke" class=" "&gt;#karaoke&lt;/a&gt; intermezzo! &lt;a href="http://search.twitter.com/search?q=%23azure" title="#azure" class=" "&gt;#azure&lt;/a&gt;</content>
+    <updated>2013-03-06T21:23:34Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/2879042508/9717457c0f12a6cc246727ea14f1d017_normal.jpeg" rel="image"/>
+    <twitter:geo></twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Kimage81 (Kim Van Gijseghem)</name>
+      <uri>http://twitter.com/Kimage81</uri>
+    </author>
+  </entry>
+</feed>
